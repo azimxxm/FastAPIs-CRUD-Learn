@@ -21,6 +21,8 @@ uvicorn main:app --reload
 
 <a href="https://amigoscode.com/courses"> Curses I like </a>
 
+---
+## For example, pictures
 
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -30,3 +32,8 @@ uvicorn main:app --reload
 
 
 
+| Syntax      | Description |
+| ----------- | ----------- |
+|FastAPIs     |![1](https://user-images.githubusercontent.com/76002783/141451660-60b83432-466d-40b9-8e9d-984eedabda04.PNG)|
+| GET     |![2](https://user-images.githubusercontent.com/76002783/141451663-7cf13734-c4c7-48c5-a7be-abb9b826edcb.PNG)|
+| DELETE    |![3](https://user-images.githubusercontent.com/76002783/141451666-013f680c-4454-4724-9c73-9b7bcc80dac4.PNG)|
